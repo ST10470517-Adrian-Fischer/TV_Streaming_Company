@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.mycompany.prog1b_section_a.SeriesModelTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.063 s -- in com.mycompany.prog1b_section_a.SeriesModelTest
