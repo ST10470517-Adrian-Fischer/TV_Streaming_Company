@@ -6,7 +6,7 @@ package com.mycompany.tvstreamingcompany;
 
 /**
  *
- * @author nolaf
+ * @author adrianf
  */
 public class SeriesModel {
 
