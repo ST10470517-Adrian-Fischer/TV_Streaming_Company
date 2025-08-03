@@ -1,14 +1,9 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- */
+
 package com.mycompany.tvstreamingcompany;
 
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author adrianf
- */
+
 public class TvStreamingcompany {
 
     public static void main(String[] args) {
