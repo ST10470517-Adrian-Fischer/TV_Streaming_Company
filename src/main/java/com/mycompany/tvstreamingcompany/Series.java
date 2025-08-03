@@ -9,7 +9,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author nolaf
+ * @author adrianf
  */
 public class Series {
 
