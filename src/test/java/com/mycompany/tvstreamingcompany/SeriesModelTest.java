@@ -14,7 +14,7 @@ import static org.junit.jupiter.api.Assertions.*;
 
 /**
  *
- * @author nolaf
+ * @author adrianf
  */
 public class SeriesModelTest {
 
